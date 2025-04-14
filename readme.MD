@@ -83,10 +83,3 @@ El enfoque se enmarca en el contexto de ataques de supply chain (como el caso de
 ## Conclusión
 
 La charla se centró en cómo utilizar herramientas de código abierto como Kritis y Grafeas para fortalecer la seguridad en la cadena de suministro de software, especialmente en entornos de Kubernetes. La integración de escaneo, verificación de políticas y emisión de atestaciones permite mitigar los riesgos asociados a vulnerabilidades en artefactos y contenedores, garantizando implementaciones seguras y confiables.
-
----
-
-## Contacto
-
-Si querés profundizar en estos temas o tienes dudas sobre la implementación, podés contactarme a través de [tu correo o perfil en LinkedIn].
-
